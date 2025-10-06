@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there!!👋 <br> I'm Pranathi Shetty, a passionate AI Engineer & problem solver.<br>💻 I love building projects that connect innovation + impact. Additionally, a Business-Minded too.<br>🌱 Currently learning AI/ML and exploring the field of AI step-by-step.<br>🚀 Always open to collaboration and new ideas!
+Hey there!!👋 <br>👩‍💻 I'm Pranathi Shetty, a passionate AI Engineer & problem solver.<br>All of my projects are available on Github.<br>💻 I love building projects that connect innovation + impact. Additionally, a Business-Minded too.<br>🌱 Currently learning AI/ML and exploring the field of AI step-by-step.<br>🚀 Always open to collaboration and new ideas!<br>💬To reach me out at shettypranathi77@gmail.com
 
 
 ## 🌐 Socials:
